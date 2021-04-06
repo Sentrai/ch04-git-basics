@@ -32,5 +32,5 @@ Learn the basics of git workflow, including adding new files.
 This is a photo of Carrie Fisher and her mother, Debbie Reynolds, from the HBO documentary *Bright Lights*.
 Here they are getting ready to go out for the day, something that was easy for the two as their houses were
 in joined compound (Carrie often used the path down the hill to visit/check up on her mother next door).
-As a small aside, they were signing here. They often liked to sign together, and Debbie especially enjoyed
-hearing her daughter sing.
+As a small aside, they were signing here. They often liked to sing together, and Debbie especially enjoyed
+hearing her daughter's voice.
